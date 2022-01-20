@@ -1,0 +1,16 @@
+uuid = "9e30e151-9e2e-4d85-955b-29c6af0d4b59"
+name = "Barrel Hit 1"
+version = "1.0.0"
+license = "CC-BY-4.0"
+attribution = "'Barrel Hit 1' by Johannes 'Hanni' Schneider is licensed under CC-BY-4.0"
+authors = [
+    "Johannes 'Hanni' Schneider"
+]
+description = "Multiple barrels explodes"
+categories = [
+    "barrel",
+    "explosion",
+    "hit"
+]
+
+filename = "barrel_barrel_hit_1.flac"
